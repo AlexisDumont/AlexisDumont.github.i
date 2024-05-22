@@ -1,45 +1,60 @@
-body{
+body {
     background-color: blue;
-   
+
 }
-.case-rouge{
+
+.case-bleu {
     padding-top: 9%;
     color: white;
 }
 
-a{
+a {
     color: white;
 }
+
 .dm-serif-display-regular {
     font-family: "DM Serif Display", serif;
     font-weight: 400;
     font-style: normal;
 }
-  
+
 .dm-serif-display-regular-italic {
     font-family: "DM Serif Display", serif;
     font-weight: 400;
     font-style: italic;
 }
+
 #subtitle {
     font-size: 50px;
 }
-h2{
+
+h2 {
     font-size: 80px;
 }
-h3{
+
+h3 {
     font-size: 45px;
 }
-a:link { 
-    text-decoration: none; 
-  } 
-  a:visited { 
-    text-decoration: none; 
-  } 
-  a:hover { 
-    text-decoration: none; 
-  } 
-  a:active { 
-    text-decoration: none; 
-  }
-  
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.return {
+    color: black !important;
+    position: absolute;
+    top: 1%;
+    font-size: 25px;
+}

@@ -33,7 +33,7 @@ background-color: red;
 
 .case-jaune{
 background-color: yellow;
-color:black;
+color: black !important;;
 }
 
 .case-mauve{
@@ -60,7 +60,6 @@ color: lightblue;
 a{
     color: white;
 }
-
 .p-3{
     border-radius: 25px;
 }
