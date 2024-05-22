@@ -1,0 +1,70 @@
+body {
+    background-color: aqua;
+}
+
+.container{
+    color:white;
+    padding-top: 3%;
+}
+
+.dm-serif-display-regular {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.dm-serif-display-regular-italic {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+  
+.case-bleu {
+background-color: blue;
+}
+
+.case-vert {
+background-color: green;
+}
+
+.case-rouge {
+background-color: red;
+}
+
+.case-jaune{
+background-color: yellow;
+color:black;
+}
+
+.case-mauve{
+background-color: purple;
+}
+
+.case-gris{
+background-color: gray;
+color:black;
+}
+
+.case-noir{
+background-color: black;
+}
+
+.case-lightblue{
+background-color: lightblue;
+color:#DF4949;
+}
+.case-lightred{
+background-color: #DF4949;
+color: lightblue;
+}
+a{
+    color: white;
+}
+
+.p-3{
+    border-radius: 25px;
+}
+
+#subtitle {
+    font-size: 18px;
+}
